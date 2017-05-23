@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="notepad4e.views.NotepadView">
+		<item value="" key="TabBullets0"/>
+		<item value="" key="TabStyle0"/>
+		<item value="Note 1" key="TabTitle0"/>
+		<item value="1" key="NumOfTabs"/>
+		<item value="Lista&#x0A;Funcionário:&#x0A;- Identificador funcionário&#x0A;Cadastro:&#x0A;- Nenhum funcionário" key="TabText0"/>
+		<item value="true" key="TabEditable0"/>
+	</section>
+</section>

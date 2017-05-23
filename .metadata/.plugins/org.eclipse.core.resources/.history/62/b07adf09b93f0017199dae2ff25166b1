@@ -1,0 +1,14 @@
+package teat.ocor.testes;
+
+import static org.junit.Assert.*;
+
+import org.junit.*;
+
+public class TestesCadastroFuncionário
+{
+	@Test
+	public void gerenciadorVazio()
+	{
+		assertEquals(0, funcionários.size());
+	}
+}
